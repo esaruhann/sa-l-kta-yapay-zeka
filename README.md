@@ -1,1 +1,1 @@
-# sa-l-kta-yapay-zeka
+# saglıkta_yapay_zeka
